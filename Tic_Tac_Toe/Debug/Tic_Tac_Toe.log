@@ -1,0 +1,5 @@
+﻿  Tic_Tac_Toe.cpp
+c:\users\msi\source\repos\dasom_summer\dasom_summer\tic_tac_toe.cpp(40): error C2440: '=': 'const char [2]'에서 'char'(으)로 변환할 수 없습니다.
+  c:\users\msi\source\repos\dasom_summer\dasom_summer\tic_tac_toe.cpp(40): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\msi\source\repos\dasom_summer\dasom_summer\tic_tac_toe.cpp(78): error C2440: '=': 'const char [2]'에서 'char'(으)로 변환할 수 없습니다.
+  c:\users\msi\source\repos\dasom_summer\dasom_summer\tic_tac_toe.cpp(78): note: 이 변환이 가능한 컨텍스트가 없습니다.

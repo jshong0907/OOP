@@ -1,0 +1,9 @@
+﻿  Application.cpp
+  League.cpp
+  Match.cpp
+c:\users\msi\source\repos\dasom_summer\soccer_game\match.cpp(29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msi\source\repos\dasom_summer\soccer_game\match.cpp(47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  Soccer_Game.vcxproj -> C:\Users\msi\source\repos\Dasom_SUMMER\x64\Debug\Soccer_Game.exe
